@@ -6,6 +6,8 @@
 
 ## Research articles
 
+* Ethan S. Bernstein, Stephen Turban. 2018 [The impact of the ‘open’ workspace on human collaboration](https://doi.org/10.1098/rstb.2017.0239)
+
 * Otterbring T, Pareigis J, Wästlund E, Makrygiannis A, Lindström A. 2018 [The relationship between office type and job satisfaction: Testing a multiple mediation model through ease of interaction and well-being.](https://doi.org/10.5271/sjweh.3707)
 
 * Richardson A, Potter J, Paterson M, Harding T, Tyler-Merrick G, Kirk R, Reid K, McChesney J. 2017 [Office design and health: a systematic review](https://www.nzma.org.nz/journal/read-the-journal/all-issues/2010-2019/2017/vol-130-no-1467-15-december-2017/7443)
