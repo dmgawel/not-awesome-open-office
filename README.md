@@ -6,6 +6,8 @@
 
 ## Research articles
 
+* Dorota Węziak-Białowolska, Zhao Dong, Eileen McNeely. 2018 [Turning the Mirror on the Architects: A Study of the Open-Plan Office and Work Behaviors at an Architectural Company](https://dx.doi.org/10.3389%2Ffpsyg.2018.02178)
+
 * Ethan S. Bernstein, Stephen Turban. 2018 [The impact of the ‘open’ workspace on human collaboration](https://doi.org/10.1098/rstb.2017.0239)
 
 * Otterbring T, Pareigis J, Wästlund E, Makrygiannis A, Lindström A. 2018 [The relationship between office type and job satisfaction: Testing a multiple mediation model through ease of interaction and well-being.](https://doi.org/10.5271/sjweh.3707)
